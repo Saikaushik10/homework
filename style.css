@@ -1,0 +1,62 @@
+h1{
+    color: rgb(0, 174, 255); 
+} 
+
+.Name{
+display: flex;
+justify-content: center;
+border: solid;
+color: rgb(26, 99, 158);
+}
+
+ .pong{
+    display: flex;
+    justify-content: center;
+    border: solid;
+    color: rgb(53, 115, 117)
+ }
+.trex{
+    display: flex;
+    justify-content: center;
+    border: solid;
+    color: rgb(3, 19, 73)
+}
+.bird {
+    display: flex;
+    justify-content: center;
+    border: solid;
+    color: rgb(3, 60, 97)
+
+
+
+}
+
+
+
+
+
+.footer{
+display:flex;
+justify-content: flex-end;
+
+}
+.item1{
+border: solid;
+color: rgb(127, 193, 255);
+
+
+}
+
+.item2{
+border: solid;
+color: rgb(146, 127, 255);
+}
+
+.item3{
+border: solid;
+color:blue
+
+}
+
+
+
